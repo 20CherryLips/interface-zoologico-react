@@ -1,7 +1,7 @@
-import './Navegacao.css'
+import './Navegar.css'
 import { Link } from 'react-router-dom';
 
-function Navegacao() {
+function Navegar() {
 
     return (
         <div className="barra-navegacao">
@@ -32,4 +32,4 @@ function Navegacao() {
     );
 }
 
-export default Navegacao;
+export default Navegar;
