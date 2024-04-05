@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-around;
     padding-top: 4%;
+    background-color: #F1EFB8;
 }
 
 .welcome-container {
@@ -12,12 +13,12 @@
     align-items: center;
 }
 
-.welcome-container>h1 {
+.welcome-container > h1 {
     color: #000;
     padding-bottom: 2%;
 }
 
-.welcome-container>p {
+.welcome-container > p {
     font-size: 22px;
     color: #000;
 }
